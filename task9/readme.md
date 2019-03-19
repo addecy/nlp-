@@ -16,11 +16,11 @@
 
 ### Attention：
 
-![1553001788705](C:\Users\tadsh\AppData\Roaming\Typora\typora-user-images\1553001788705.png)
+![1553001788705](./img/1553001788705.png)
 
-![1553001829339](C:\Users\tadsh\AppData\Roaming\Typora\typora-user-images\1553001829339.png)
+![1553001829339](./img/1553001829339.png)
 
-![1553002172792](C:\Users\tadsh\AppData\Roaming\Typora\typora-user-images\1553002172792.png)
+![1553002172792](./img/1553002172792.png)
 
 
 
@@ -28,7 +28,7 @@
 
 ### HAN结构：
 
-![1553002391209](C:\Users\tadsh\AppData\Roaming\Typora\typora-user-images\1553002391209.png)
+![1553002391209](./img/1553002391209.png)
 
 整个网络结构包括四个部分：
 
@@ -58,7 +58,7 @@
 
 　　　　注意力层的具体流程如下：
 
-![1553002456501](C:\Users\tadsh\AppData\Roaming\Typora\typora-user-images\1553002456501.png)
+![1553002456501](./img/1553002456501.png)
 
 　　　　上面式子中，uituit 是 hithit 的隐层表示，aitait 是经 softmaxsoftmax 函数处理后的归一化权重系数，uwuw 是一个随机初始化的向量，之后会作为模型的参数一起被训练，sisi 就是我们得到的第 ii 个句子的向量表示。
 
